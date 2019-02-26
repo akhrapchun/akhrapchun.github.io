@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="style.css" type="text/css">
+	<title>Anastasia Khrapchun</title>
+	
+</head>
+ 
+<body>
+	<header>	
+		<div id="menu">
+			<nav>
+				<ul>
+					<li><a href="index.html">Home</a></li>
+					<li><a href="portfolio.html">Portfolio</a></li>
+					<li><a href="inspiration.html">Inspiration</a></li>
+					<li><a href="aboutme.html">About me</a></li>
+				</ul>
+			</nav>
+		</div>
+			
+	</header>	
+	
+	
+		
+	
+	
+	<footer class="footer">
+		<ul class="social-icons">
+			<li><a href="http://www.facebook.com/anastasia.khrapchun"><img src='icons/facebook.png' /></a></li>
+			<li><a href="http://www.instagram.com"><img src='icons/instagram.png' /></a></li>
+			<li><a href="http://www.gmail.com"><img src='icons/gmail.png' /></a></li>
+		</ul>
+	</footer>
+
+	
+</body>
+</html>
